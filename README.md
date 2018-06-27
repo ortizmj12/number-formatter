@@ -2,6 +2,7 @@ This repo/package was created by following steps at https://codeburst.io/how-to-
 
 Number Formatter
 =========
+[![Build Status](https://travis-ci.org/ortizmj12/number-formatter.svg?branch=master)](https://travis-ci.org/ortizmj12/number-formatter) [![Coverage Status](https://coveralls.io/repos/github/ortizmj12/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ortizmj12/number-formatter?branch=master)
 
 A small library that adds commas to numbers
 
