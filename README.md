@@ -7,11 +7,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @jdaudier/number-formatter`
+  `npm i number-formatter-ortizmj12`
 
 ## Usage
 
-    var numFormatter = require('@jdaudier/number-formatter');
+    var numFormatter = require('number-formatter-ortizmj12');
 
     var formattedNum = numFormatter(35666);
   
