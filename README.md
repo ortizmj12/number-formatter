@@ -1,4 +1,4 @@
-This whole package was created by following steps at https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
+This repo/package was created by following steps at https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
 
 Number Formatter
 =========
