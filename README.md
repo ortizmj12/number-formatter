@@ -1,6 +1,6 @@
-This repo/package was created by following steps at https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
-
 [![Build Status](https://travis-ci.org/ortizmj12/number-formatter.svg?branch=master)](https://travis-ci.org/ortizmj12/number-formatter)
+
+This repo/package was created by following steps at https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
 
 Number Formatter
 =========
