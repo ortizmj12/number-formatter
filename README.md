@@ -8,11 +8,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm i number-formatter-ortizmj12`
+  `npm i @ortizmj12/number-formatter`
 
 ## Usage
 
-    var numFormatter = require('number-formatter-ortizmj12');
+    var numFormatter = require('@ortizmj12/number-formatter');
 
     var formattedNum = numFormatter(35666);
   
